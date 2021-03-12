@@ -31,8 +31,7 @@ layout: home
 <p>
 <strong>Ознакомительная встреча</strong>
 <br/>
-Во вторник 2го марта в 18:00 мы приглашаем детей и родителей на ознакомительную встречу. Чтобы принять участие, просим зарегистрироваться до 20 часов 1го марта, заполнив
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBrKM_THZuMB9JunBlZd8XQWEIz_c4lcJ57T2YNN7HqxvEbg/viewform?usp=sf_link"> Google форму</a>. Вечером 1го марта Вы получите подтверждение с ссылкой для Zoom.
+Во вторник 16го марта в 19:00 мы приглашаем детей и родителей на ознакомительную встречу. Чтобы принять участие, напишите нам на адрес <a href="mailto:tikhvin.math.circle@gmail.com">tikhvin.math.circle@gmail.com</a> и мы пришлем Вам подтверждение с ссылкой для Zoom.
 </p>
 
 
